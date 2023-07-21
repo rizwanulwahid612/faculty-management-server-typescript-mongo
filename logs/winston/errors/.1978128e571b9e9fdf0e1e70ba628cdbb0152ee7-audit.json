@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\.1978128e571b9e9fdf0e1e70ba628cdbb0152ee7-audit.json",
+    "files": [
+        {
+            "date": 1689936507928,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\riz-2023-21-07-16-error.log",
+            "hash": "058b66934afacf6e0e703f8ba6b38acb74a1f7d420ae5f64c71c74409c2c36c9"
+        },
+        {
+            "date": 1689940973504,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\riz-2023-21-07-18-error.log",
+            "hash": "598e6ef16fb6b871f248f629a13ade561f74ac54259adc64d85a693c2bd23937"
+        },
+        {
+            "date": 1689945177053,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\riz-2023-21-07-19-error.log",
+            "hash": "0e29f57c70ed4a4acae27f6af27b1a2e40eaf95adfbd9e6a553b08c3b2474a2e"
+        },
+        {
+            "date": 1689948784707,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\riz-2023-21-07-20-error.log",
+            "hash": "f067f318335bac14c072e0391eea2b9b971a6c8d699af4ecdc8a3fb2ac6a0db5"
+        },
+        {
+            "date": 1689952544206,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\errors\\riz-2023-21-07-21-error.log",
+            "hash": "96aca04cceac64357c1523ae20d25db44ccd1c1e459c70f9386ed2c1ec29cf99"
+        }
+    ],
+    "hashType": "sha256"
+}

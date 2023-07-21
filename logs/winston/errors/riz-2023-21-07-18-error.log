@@ -1,0 +1,1 @@
+Fri Jul 21 2023 18:47:38 [Rizvi UM] error: globalErrorHandelar ~ Cast to ObjectId failed for value "sortOrder=asc" (type string) at path "_id" for model "AcademicFaculty"

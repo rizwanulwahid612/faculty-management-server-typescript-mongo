@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\.24ebba91542ac3472241cf15f82a0d289d595cdb-audit.json",
+    "files": [
+        {
+            "date": 1689936507924,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\riz-2023-21-07-16-success.log",
+            "hash": "a0b14ee9c9f28fbb2fb1e98c05bbd17b0fae802589586148ba495886bb1b70cc"
+        },
+        {
+            "date": 1689940973498,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\riz-2023-21-07-18-success.log",
+            "hash": "bd3e19447c49d362cec08f8fb51537bb7a4501b787f4015c5a109b66e2de0253"
+        },
+        {
+            "date": 1689945177045,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\riz-2023-21-07-19-success.log",
+            "hash": "c81db84f97c5c5960a8bcc996d44ad4b794b8b43bde625be9e319e96c5d97594"
+        },
+        {
+            "date": 1689948784703,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\riz-2023-21-07-20-success.log",
+            "hash": "b66cb64dc34126c1a357419c2771fa1796f2a3da6613c2dbcac8c5eff9440ac6"
+        },
+        {
+            "date": 1689952544202,
+            "name": "G:\\FacultyModule practice mongoose type\\logs\\winston\\successes\\riz-2023-21-07-21-success.log",
+            "hash": "e3ddfd669a98bd13f3b7f26405c1a44fd583cbd0f8a5757e075b9d319445a533"
+        }
+    ],
+    "hashType": "sha256"
+}

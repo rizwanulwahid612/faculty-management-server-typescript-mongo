@@ -1,0 +1,24 @@
+Fri Jul 21 2023 21:21:49 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "First Name is required"
+  }
+]
+Fri Jul 21 2023 21:21:53 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "First Name is required"
+  }
+]
