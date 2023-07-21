@@ -17,7 +17,7 @@ const createFaculty = async (
   //set role
   payload.role = 'faculty';
 
-  onst id = await genereteFacultyId();
+  const id = await genereteFacultyId();
   payload.id = id;
 
   const result = await AcademicFaculty.create(payload);
