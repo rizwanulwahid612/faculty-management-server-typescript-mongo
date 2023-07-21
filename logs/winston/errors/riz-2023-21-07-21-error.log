@@ -22,3 +22,5 @@ Fri Jul 21 2023 21:21:53 [Rizvi UM] error: globalErrorHandelar ~ [
     "message": "First Name is required"
   }
 ]
+Fri Jul 21 2023 21:27:9 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.academicfaculties index: name_1 dup key: { name: "Md.Rizwanul Wahid" }
+Fri Jul 21 2023 21:27:27 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.academicfaculties index: name_1 dup key: { name: "Md.Rizwanul Wahid" }
