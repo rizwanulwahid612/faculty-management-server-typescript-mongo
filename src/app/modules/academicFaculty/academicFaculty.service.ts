@@ -12,7 +12,7 @@ const createFaculty = async (payload:IAcademicFaculty):Promise<IAcademicFaculty 
    //set role
    payload.role = 'faculty';
    
-   const id = await genereteFacultyId();
+   onst id = await genereteFacultyId();
    payload.id = id;
 
     const result = await AcademicFaculty.create(payload)
