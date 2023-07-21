@@ -1,13 +1,7 @@
 import { Schema, model } from 'mongoose';
-import {
-  AcademicFacultyModel,
-  IAcademicFaculty,
-} from './academicFaculty.interface';
+import { AdminModel, IAdmin } from './admin.interface';
 
-const AcademicFacultySchema = new Schema<
-  IAcademicFaculty,
-  AcademicFacultyModel
->(
+const AdminSchema = new Schema<IAdmin, AdminModel>(
   {
     id: {
       type: String,
@@ -27,6 +21,11 @@ const AcademicFacultySchema = new Schema<
       type: String,
       required: true,
     },
+    academicFaculty: {
+      type: Schema.Types.ObjectId,
+      ref: 'AcademicFaculty',
+      required: true,
+    },
   },
   {
     timestamps: true,
@@ -35,7 +34,4 @@ const AcademicFacultySchema = new Schema<
     },
   },
 );
-export const AcademicFaculty = model<IAcademicFaculty, AcademicFacultyModel>(
-  'AcademicFaculty',
-  AcademicFacultySchema,
-);
+export const Admin = model<IAdmin, AdminModel>('Admin', AdminSchema);

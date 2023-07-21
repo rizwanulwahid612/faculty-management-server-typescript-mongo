@@ -1,0 +1,52 @@
+Sat Jul 22 2023 0:3:0 [Rizvi UM] error: listen EADDRINUSE: address already in use :::3000
+Sat Jul 22 2023 0:7:27 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Name is required"
+  }
+]
+Sat Jul 22 2023 0:8:2 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Name is required"
+  }
+]
+Sat Jul 22 2023 0:8:16 [Rizvi UM] error: globalErrorHandelar ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Name is required"
+  }
+]
+Sat Jul 22 2023 0:10:39 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:10:58 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:11:9 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:11:11 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:11:12 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:11:16 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:12:36 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:15:33 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:15:47 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:19:30 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:19:32 [Rizvi UM] error: globalErrorHandelar ~ E11000 duplicate key error collection: faculty-management.admins index: id_1 dup key: { id: "A-00001" }
+Sat Jul 22 2023 0:34:37 [Rizvi UM] error: globalErrorHandelar ~ Cast to ObjectId failed for value "A-00002" (type string) at path "_id" for model "Admin"
+Sat Jul 22 2023 0:35:13 [Rizvi UM] error: globalErrorHandelar ~ Cast to ObjectId failed for value "A-00002" (type string) at path "_id" for model "Admin"
+Sat Jul 22 2023 0:40:22 [Rizvi UM] error: globalErrorHandelar ~ Cannot populate path `admin` because it is not in your schema. Set the `strictPopulate` option to false to override.
+Sat Jul 22 2023 0:44:31 [Rizvi UM] error: globalErrorHandelar ~ Cannot populate path `admins` because it is not in your schema. Set the `strictPopulate` option to false to override.
